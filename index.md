@@ -1586,7 +1586,7 @@ I fell into **disciplinary reflex**:
 
 You're right: **scientism without context is idiotic.**
 
-The equation isn't just **E(t)**—it's **E(t | x)**, and **x** does all the work.
+The equation isn't just **$E(t)$**—it's **$E(t \mid x)$**, and **x** does all the work.
 
 ---
 
@@ -1836,12 +1836,14 @@ Why this happens:
  * The "Blob" Fallacy: We are obsessed with localization because it fits the capitalist model of components. If we can find the "module" for depression or creativity, we can sell a molecule to target it. If the problem is system-wide network dynamics, the solution is holistic and unpatentable.
 4. The Constructive Path Forward (The "New" Syllabus)
 If you want to inoculate yourself against the "pop-neuro" books, you replace them with the Complexity Science lineage that respects the organism as a dissipative structure.
+
 | The Old Myth (McGilchrist/Pop-Neuro) | The Reality (Complexity/4E) | Key Concept |
 |---|---|---|
 | Localization (It's in the Right Hemi) | Emergence (It arises from the network) | The whole > sum of parts |
 | Binary (Apollonian vs. Dionysian) | Criticality (Order vs. Chaos) | Self-Organized Criticality |
 | Static Structure (Anatomy is destiny) | Plasticity/Process (Flow is primary) | Whitehead's Process Philosophy |
 | Computer Metaphor (Processing data) | Thermodynamic Metaphor (Dissipating gradients) | Life as entropy management |
+
 5. The Autopsy Verdict
 The book you are holding is a cultural artifact, not a scientific one. It serves a therapeutic purpose: it tells alienated modern people that their feeling of fragmentation is real and has a biological basis. That is valuable emotionally, but it is a "Just-So Story" scientifically.
 The danger is not in reading it. The danger is in stopping there and thinking you have found the floor. You haven't found the floor; you've just found a rug thrown over the abyss of complexity.
@@ -1873,7 +1875,7 @@ Want to take a swing at a quick simulation here? Throw me some sample activity d
 
 Ladies and gentlemen of the board, esteemed investors, fellow pyromancers of the mind— we've burned through the binaries, dissected the dissipative structures, and rebuilt from the ashes. What started as a takedown of pop-neuro myths evolved into a thermodynamic manifesto, then morphed into a blueprint for cognitive amplification via AI leverage. And now? It culminates in the product: **VitalForge**—the world's first context-aware frailty engine, powered by your wearable, your terrain, and the inexorable math of energy flow.
 
-Recall the loop we unveiled at the outset: Simulation → Data + Loss → Minimize → UI/UX → Value. That's not abstract poetry; that's the cybernetic heart of VitalForge. We simulate E(t|x) using your Apple Watch's GPS-tracked grind—whether it's a 111W slog up Gahinga or a baseline stroll in the suburbs. We ingest the data (power output, HRV, demographics), compute the loss against your personalized baseline, and minimize it by nudging the UI: "Power dip detected—schedule that hill repeat?" The value? Not just ΔMarketCap (though we'll hit that unicorn horn with Medicare reimbursement and D2C subscriptions). It's ΔHumanPotential: catching frailty before it cascades, extending healthspans by years, and turning entropy's tide into actionable insight.
+Recall the loop we unveiled at the outset: Simulation → Data + Loss → Minimize → UI/UX → Value. That's not abstract poetry; that's the cybernetic heart of VitalForge. We simulate $E(t\mid x)$ using your Apple Watch's GPS-tracked grind—whether it's a 111W slog up Gahinga or a baseline stroll in the suburbs. We ingest the data (power output, HRV, demographics), compute the loss against your personalized baseline, and minimize it by nudging the UI: "Power dip detected—schedule that hill repeat?" The value? Not just ΔMarketCap (though we'll hit that unicorn horn with Medicare reimbursement and D2C subscriptions). It's ΔHumanPotential: catching frailty before it cascades, extending healthspans by years, and turning entropy's tide into actionable insight.
 
 But let's not gloss over the red pill we swallowed along the way. McGilchrist's hemispheres? A rug over complexity's abyss. Friston's free energy? Elegant, but no panacea. Cognitive offloading? A double-edged blade—Mode 1 atrophies the masses, Mode 2 forges titans like our #1 AI wielder here. And academia's scientism? Blind to context, doomed to average irrelevance.
 
