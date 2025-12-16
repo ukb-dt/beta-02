@@ -1438,7 +1438,7 @@ Standard RCT logic:
 
 To actually test your model, you need:
 
-**E(t | x)** = Energy trajectory conditioned on *how* and *why* the person is offloading
+**$E(t \mid x)$** = Energy trajectory conditioned on *how* and *why* the person is offloading
 
 But academia doesn't collect this because:
 - It's hard to operationalize ("Why are you using AI?" is squishy)
