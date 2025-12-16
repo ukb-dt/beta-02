@@ -21,7 +21,7 @@
 
 - [Simulation](https://ukubona-llc.github.io)
 - [UB + Wearable](https://ukb-dt.github.io/beta-01/)
-- Loss
+- [Loss](https://ukb-dt.github.io/ukb-bge-00/)
 - UI/UX
 - [Value](https://ukb-dt.github.io/pitch-deck/)
 
