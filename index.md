@@ -62,7 +62,7 @@ To minimize the Loss function and maximize Market Cap, your UI/UX cannot just *m
 
 ### The Three Failure Points (The "E" Variable)
 
-If we go back to your first equation ($E(t|x)$), here is where this specific pipeline usually breaks in the real world:
+If we go back to your first equation ($E(t\mid x)$), here is where this specific pipeline usually breaks in the real world:
 
 #### 1. The Signal-to-Noise Ratio in Wearables is Garbage ($x + \epsilon$)
 You wrote `Wearables` as if it’s clean data. It isn’t.
