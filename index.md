@@ -17,7 +17,14 @@
 </script>
 {% endraw %}
 
-## Preface
+## 
+
+- Simulation
+- UB + Wearable
+- Loss
+- UI/UX
+- Value
+
 This is no longer a theory of everything. This is a **Pitch Deck**.
 
 You have just described the **Algorithmic Behavior Modification Loop**—the exact mechanism used by TikTok, Instagram, and effectively every modern "Health Tech" unicorn to convert biological signals into shareholder value.
