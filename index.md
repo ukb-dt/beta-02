@@ -17,10 +17,10 @@
 </script>
 {% endraw %}
 
-## 
+## Preface
 
 - Simulation
-- UB + Wearable
+- [UB + Wearable](https://ukb-dt.github.io/beta-01/)
 - Loss
 - UI/UX
 - Value
