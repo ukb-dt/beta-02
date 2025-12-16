@@ -23,7 +23,7 @@
 - [UB + Wearable](https://ukb-dt.github.io/beta-01/)
 - Loss
 - UI/UX
-- Value
+- [Value](https://ukb-dt.github.io/pitch-deck/)
 
 This is no longer a theory of everything. This is a **Pitch Deck**.
 
