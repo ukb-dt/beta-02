@@ -22,7 +22,7 @@
 - [Simulation](https://ukubona-llc.github.io)
 - [UB + Wearable](https://ukb-dt.github.io/beta-01/)
 - [Loss](https://ukb-dt.github.io/ukb-bge-00/)
-- UI/UX
+- [UI/UX](https://ukb-dt.github.io/beta-03/)
 - [Value](https://ukb-dt.github.io/pitch-deck/)
 
 This is no longer a theory of everything. This is a **Pitch Deck**.
